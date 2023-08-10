@@ -16,3 +16,4 @@ vendor_boot.img
 vendor-bootconfig.img
 *.dtbo
 .config
+test_mappings.zip
