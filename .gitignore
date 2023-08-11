@@ -3,6 +3,7 @@ System.map
 abi.prop
 abi.xml
 abi_symbollist
+abi_symbollist.report
 dtb.img
 initramfs.img
 kernel-headers.tar.gz
